@@ -56,10 +56,10 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
+          git config --global user.email "lpx@evmosdao.org"
+          git config --global user.name "LPX55"
           git add -A
           git diff --quiet && git diff --staged --quiet || git commit -m "Update benchmark logs"
-          git push origin HEAD:main --follow-tags --force
+          git push origin HEAD:master --follow-tags --force
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
