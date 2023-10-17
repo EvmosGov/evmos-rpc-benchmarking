@@ -2,7 +2,7 @@ name: Benchmark
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   workflow_dispatch:
 
 jobs:
@@ -53,6 +53,11 @@ jobs:
         with:
           name: bench-logs
           path: logs/
-
-      - name: 'Echo download path'
-        run: echo ${{steps.download.outputs.download-path}}
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update benchmark logs"
+          git push
