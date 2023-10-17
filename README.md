@@ -378,7 +378,8 @@ blocks: 15000
 
 **tl;dr** - just use Lava if you want a smooth experience. I swear I am not on their payroll. But if they want to pay me, they know where to find me 😉  Keep in mind that the network is still very young -- it can either improve tremendously, or deterioriate into BD / run into potential problems in the future.
 
-I would have given Blast API a huge shoutout... but where my logs man?
+- I would have given Blast API a huge shoutout... but where my logs man?
+- PublicNode was underperforming the entire night but suddenly decided to show up for the benchmark that was going public 🤷‍♂️ Make of that what you will.
 
 ---
 
