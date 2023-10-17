@@ -1,0 +1,15 @@
+🌐 Geolocation Telemetry 
+---------------------------
+
+country: United States
+regionName: Virginia
+city: Boydton
+timezone: America/New_York
+isp: Microsoft
+
+⚡ Benchmark Parameters 
+---------------------------
+
+limit: 150
+blocks: 10000
+
