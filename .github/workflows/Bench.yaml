@@ -33,4 +33,4 @@ jobs:
 
 
       - name: Run Benchmarks
-        run: yarn benchmark
+        run: yarn benchmark:fast

@@ -1,6 +1,6 @@
 # Evmos JSON-RPC Benchmarking
 
-[<img src="https://camo.githubusercontent.com/26d13d81a05e37974313ed3a612ae9d43b8c443f0930906748e51bf2d2abe885/68747470733a2f2f776562636f6e7461696e6572732e696f2f696d672f7468656d652f776562636f6e7461696e65725f6170692d6c6f676f2d6461726b2d626c61636b77686974652e737667" height="18px" style="inline; margin-right:4px; background:#333333; padding:5px" />](https://webcontainers.io/) 
+[<img src="https://camo.githubusercontent.com/26d13d81a05e37974313ed3a612ae9d43b8c443f0930906748e51bf2d2abe885/68747470733a2f2f776562636f6e7461696e6572732e696f2f696d672f7468656d652f776562636f6e7461696e65725f6170692d6c6f676f2d6461726b2d626c61636b77686974652e737667" height="30px" style="inline; margin-right:4px; background:#333333;" />](https://webcontainers.io/) 
 [<img src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" height="28" style="inline; margin-right:4px" />](https://twitter.com/lpx_404) [<img src="https://img.shields.io/badge/Evmos-DAO-orange?style=for-the-badge&labelColor=%23333333&color=%23ed4e33" height="28" style="inline; margin-right:4px" />](https://evmosdao.org) [<img src="https://img.shields.io/badge/Shame_On-You_BD-blue?style=for-the-badge&labelColor=%23666666" height="28" style="inline; margin-right:4px" />](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
@@ -22,6 +22,15 @@ The decentralized public endpoints by Lava have been performing incredibly well,
 
 ---
 
+<p align="center" style="font-weight:bold;margin-top:2rem;margin-bottom:2rem;"> 
+  <samp>
+    「 Providers and Validators 」
+    <br></samp>
+    <a href="https://github.com/LPX55/evmos-rpc-benchmarking/blob/master/data/rpcs.json">
+    <img src="https://img.shields.io/badge/ADD_YOUR_-ENDPOINT-red?style=for-the-badge&logo=AddThis&color=%23ed4e33"></a>
+</p>
+
+---
 ## Prelimary Benchmark Results
 
 ### 1. Ultralight Load
@@ -359,12 +368,13 @@ blocks: 15000
 
 ## Key-Takeaways
 
-- Response times are not always the best metric to measure RPC performance
+- Response times are not always the best metric to measure RPC performance; also need a bigger sample size for public view, though I have personally conducted hundreds in the past 24 hours.
 - Some endpoints appears to have sacrified key RPC functions for a boost in speed (unsure if causation or coincidence)
 - Certain endpoints are clearly better for developers while others may suit regular end-users just fine
 - All endpoints are struggling with older blocks, likely because of the last upgrade. Seeing the most inconsistency in this area.
 - Notional was the only endpoint that ended up rate-limiting me (which I don't blame honestly)
 - Lava decentralized nodes took 3x my abuse yet managed to remain arguably the most consistent and reliable. Power in numbers!
+- In hindsight, I should have been keeping averages of all the benchmarks while developing.
 
 **tl;dr** - just use Lava if you want a smooth experience. I swear I am not on their payroll. But if they want to pay me, they know where to find me 😉  Keep in mind that the network is still very young -- it can either improve tremendously, or deterioriate into BD / run into potential problems in the future.
 
