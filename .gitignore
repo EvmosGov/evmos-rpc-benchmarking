@@ -1,0 +1,4 @@
+node_modules
+.env
+/logs/
+.satoshis_private_key

@@ -1,0 +1,1402 @@
+[
+  {
+    "address": "0xd69c957aa14286fda986a12a40b4cb54eaaf76ea",
+    "evmos_balance": "2446764564834864983718"
+  },
+  {
+    "address": "0x859204bc05aa8fa32992f4e224385b1cb710b516",
+    "evmos_balance": "62228285430462550428"
+  },
+  {
+    "address": "0x3b39ccfb4114bfba70fe4e4834f953a1433d70ee",
+    "evmos_balance": "934259180893859428837"
+  },
+  {
+    "address": "0x2b185c762f6fb49a07116ec06b238b58fe2bec53",
+    "evmos_balance": "1880254323560141963649"
+  },
+  {
+    "address": "0x081ca6de70660181a40e096fcecef2781cd7cb8e",
+    "evmos_balance": "2879593615892614392335"
+  },
+  {
+    "address": "0x8f42cc005d7054a736a04bbf8372288178bdd51d",
+    "evmos_balance": "1560316440780080431985"
+  },
+  {
+    "address": "0xf0e61f5b078ef3f8377460f4ac736e354dec0783",
+    "evmos_balance": "1720773181328985470018"
+  },
+  {
+    "address": "0xa81437305992465a4200a265329d4434c2f2e2d2",
+    "evmos_balance": "1074898777211326685769"
+  },
+  {
+    "address": "0xf18d53463e1dfb46ab7d639f9793a43ca62ac64a",
+    "evmos_balance": "2076069323841037593156"
+  },
+  {
+    "address": "0x98773372abd1e4cbf3e208f2784820834569cdf1",
+    "evmos_balance": "2025684546484847740070"
+  },
+  {
+    "address": "0x4c7b4e362bdcfd56858e9355596db2d37a3d3433",
+    "evmos_balance": "465595842200687486515"
+  },
+  {
+    "address": "0x37e4a4e1d0171face660b043b513ea891cc45963",
+    "evmos_balance": "1379864428335446714580"
+  },
+  {
+    "address": "0xfe13390c6a6f01e80e9e4c38de079155e8c48978",
+    "evmos_balance": "2282311133095399869427"
+  },
+  {
+    "address": "0xf6dc735cd14e6f9ab3cf260e2cfff7d76fd46ed6",
+    "evmos_balance": "2559901171674896319072"
+  },
+  {
+    "address": "0xe33ccf2e727c1dd2c8fda36e357c3617c1e7448f",
+    "evmos_balance": "2259161758796326675313"
+  },
+  {
+    "address": "0xcdb75046f3cd3bf47f01851509c01760d489d7f6",
+    "evmos_balance": "2851393836092484124256"
+  },
+  {
+    "address": "0xec13489d022102dde8234d8c22b25b0bed2e7b54",
+    "evmos_balance": "2881695991295724337860"
+  },
+  {
+    "address": "0x151714893c633dfb64e6fc531daf81eab9b9c0ff",
+    "evmos_balance": "1883016281214822707882"
+  },
+  {
+    "address": "0x78283f83772a05a650c55a8dee1c7caffcd2a548",
+    "evmos_balance": "478443880499675437135"
+  },
+  {
+    "address": "0x12e95a92b85b2a29fa8e5c8387dd3df34ccc48b7",
+    "evmos_balance": "281845205695960431872"
+  },
+  {
+    "address": "0x588ea4027f94356d3f6a7e3428610aea2a073051",
+    "evmos_balance": "706616072196702158487"
+  },
+  {
+    "address": "0x22827df138fb40f2a80c00245af2177b5eb71f38",
+    "evmos_balance": "2075840195861142306134"
+  },
+  {
+    "address": "0x2873d32ebccbc86f785acf31d42970b1aaf8839b",
+    "evmos_balance": "66344579218045824262"
+  },
+  {
+    "address": "0x48d84effbf6d02e17a7621f953c74c32ce3c302f",
+    "evmos_balance": "1514961875342887984287"
+  },
+  {
+    "address": "0x296ec13b8099b732bc41663246f5cfdd579032f2",
+    "evmos_balance": "947590300696451155196"
+  },
+  {
+    "address": "0x124445343ea4970932718eec52d8aa02576744d7",
+    "evmos_balance": "1830338088301673959616"
+  },
+  {
+    "address": "0x09c6232d54b51841a202d76f76fa679df53a3b3e",
+    "evmos_balance": "2244488117043338215354"
+  },
+  {
+    "address": "0x267afbe25085e199871ae54028b54c29b4380123",
+    "evmos_balance": "1490027329839181516880"
+  },
+  {
+    "address": "0x4f41a9e2ca78ad6b6efab52f661b5f0a0c211f75",
+    "evmos_balance": "1493464474622730191205"
+  },
+  {
+    "address": "0x29c56465a68153ef0f87789b1468b16dc2cd4e8e",
+    "evmos_balance": "1711358544888659726984"
+  },
+  {
+    "address": "0x013573fa9faf879db49855addf10653f46903419",
+    "evmos_balance": "1047926196390709395507"
+  },
+  {
+    "address": "0xb58e8c38904820a4996f6f81d347e2aedf968c63",
+    "evmos_balance": "752447312589301862275"
+  },
+  {
+    "address": "0xddf403807c103624d3ccee729a88103f3fb55cb2",
+    "evmos_balance": "416310703466760604511"
+  },
+  {
+    "address": "0x7cebc4d96cbfcb174e6438f91db362ea3a732f8b",
+    "evmos_balance": "570878676722574667285"
+  },
+  {
+    "address": "0x572a4716979814bcb06835d15c13d48c21860a17",
+    "evmos_balance": "1750840381415089551263"
+  },
+  {
+    "address": "0xd0e35782c287620ef9b72459f6504bf8ace006a0",
+    "evmos_balance": "1005672379693637026859"
+  },
+  {
+    "address": "0xde845b18f83a3d41be953ef3316465a9cce09892",
+    "evmos_balance": "665469683574062608778"
+  },
+  {
+    "address": "0x02b8f20a5663c0679045ed9e6715b36c85b30f4b",
+    "evmos_balance": "2788112780706648037442"
+  },
+  {
+    "address": "0xb002213b290c9a71a401d9eab3022d868f021dcc",
+    "evmos_balance": "973168760068734771911"
+  },
+  {
+    "address": "0xc8f55351b07405b63fe867e5b9eff6e31a7cef81",
+    "evmos_balance": "2263332046662531024609"
+  },
+  {
+    "address": "0xf0322775dc5a0019d88ba301578770c637ebbbdb",
+    "evmos_balance": "1305716011093314130223"
+  },
+  {
+    "address": "0x6628dc0fd2713542278099fca25db9ce53750e54",
+    "evmos_balance": "394669169815559187836"
+  },
+  {
+    "address": "0xaeff8c94abae640a834e1969f2a2c039d04f77e0",
+    "evmos_balance": "716778712522454699612"
+  },
+  {
+    "address": "0x97c192b19a91ab8d8c2d5da1d1219356973f59cd",
+    "evmos_balance": "2084533965621820199499"
+  },
+  {
+    "address": "0x21c2a93650ac1016eb462af466877169e197ba63",
+    "evmos_balance": "612979048999323710735"
+  },
+  {
+    "address": "0x274af61a316678a84aabacc4a6cf6881e9413b3b",
+    "evmos_balance": "709190688853057240885"
+  },
+  {
+    "address": "0x1bdd8ac81bae72626199cb927b9f1f5d2e0ec046",
+    "evmos_balance": "1524973625436332813581"
+  },
+  {
+    "address": "0x291a32ed004a132780586a333bbee4644139ab10",
+    "evmos_balance": "2966306029016148827304"
+  },
+  {
+    "address": "0xc73ab455311cd7cc616736759a6edb36bfc6e88d",
+    "evmos_balance": "2386530101049771870674"
+  },
+  {
+    "address": "0x0fc5b9c6079c3f4bcdb406d161ab3c847c1107d5",
+    "evmos_balance": "567826512568211054635"
+  },
+  {
+    "address": "0x5a372b4c9fbac40695db3337fca4a46a1dc66942",
+    "evmos_balance": "2621478172339720680029"
+  },
+  {
+    "address": "0x08a15dbb01d9bce5e46113715f6961db03e48287",
+    "evmos_balance": "1041093225791437490554"
+  },
+  {
+    "address": "0x1165cc27da7a4606692dbdae20bb12d638db7db5",
+    "evmos_balance": "358713735681834368044"
+  },
+  {
+    "address": "0xb6a56415120ea43862383a901b0e0aa4513e051d",
+    "evmos_balance": "2687026410354208458484"
+  },
+  {
+    "address": "0x4418381cff213efbaf27c2c4c56b1c2736e32eb8",
+    "evmos_balance": "1896758101682539409164"
+  },
+  {
+    "address": "0x95d30549f608c59a745c3d838fc54a23d7ce3ae7",
+    "evmos_balance": "171758080082645522702"
+  },
+  {
+    "address": "0xcd2d8965a1d3cb529b2e4c3af6c558676e362739",
+    "evmos_balance": "908764146940488690723"
+  },
+  {
+    "address": "0x873aef1f0403b5256a04fd021fbebc307913d914",
+    "evmos_balance": "2910287079532591736678"
+  },
+  {
+    "address": "0x8e07ab8fc9e5f2613b17a5e5069673d522d0207a",
+    "evmos_balance": "1233246212459765734279"
+  },
+  {
+    "address": "0x616bf698fd523aa70268f0e7d2162f3aa79987ac",
+    "evmos_balance": "786485334245505930421"
+  },
+  {
+    "address": "0x177a6a32d73372911f772d050368a4512e021998",
+    "evmos_balance": "1854266603327286054790"
+  },
+  {
+    "address": "0xc0f52c5934b9a6664bb244ad98a8bfc41134fc21",
+    "evmos_balance": "753889793831675749897"
+  },
+  {
+    "address": "0xc29f6c9147e8e23af0798fbe2ff56abaabca8708",
+    "evmos_balance": "1152150003850317221109"
+  },
+  {
+    "address": "0x3d8fcce251008ad0c8e0c3b9baf7f0fa3b290528",
+    "evmos_balance": "2966067129000430618730"
+  },
+  {
+    "address": "0x006fbaf6fcbb50089fe8d63620e2aeaca287515c",
+    "evmos_balance": "264110820983684399655"
+  },
+  {
+    "address": "0x19004fa1238b610e02a9cee064982607fe112579",
+    "evmos_balance": "1515542180801567096283"
+  },
+  {
+    "address": "0x60c92305ce125b440ef97439f26396f2f3beff48",
+    "evmos_balance": "2718212944209341441143"
+  },
+  {
+    "address": "0xbb25cf93d65f9bf3908ad6d75bef4c56b5f1ee91",
+    "evmos_balance": "113232872092766596517"
+  },
+  {
+    "address": "0xdffbab93c24e8a793627b86cd910b588ab4b5e21",
+    "evmos_balance": "2163764335511952607132"
+  },
+  {
+    "address": "0xe2632d93557b959ea246842a73f87443e65e4489",
+    "evmos_balance": "75104397456656365294"
+  },
+  {
+    "address": "0xa2c573abc3e3c3a66c6d5530b7a1bcd185a9ade0",
+    "evmos_balance": "623499037573517689197"
+  },
+  {
+    "address": "0x5491d6563768d3ed07c6f40338243974d06e4963",
+    "evmos_balance": "2729842872848368105031"
+  },
+  {
+    "address": "0x9356a902066798e02eee5808074c4719dde2c67a",
+    "evmos_balance": "2641514301518597671407"
+  },
+  {
+    "address": "0x9c85c8ef9121b35d0a34f2e5ef927ef6cf14a530",
+    "evmos_balance": "2520403552134930148138"
+  },
+  {
+    "address": "0xfc93276363fc6ccdcf3543a80280e5be562fcf29",
+    "evmos_balance": "1386493339840625498986"
+  },
+  {
+    "address": "0x96b1c17d49760cce38b6e489d463d8312884acc2",
+    "evmos_balance": "2105842253611807024137"
+  },
+  {
+    "address": "0xb84fe6e46690be7af1a3a47dc6b10ad643df13bf",
+    "evmos_balance": "1682285617044319203926"
+  },
+  {
+    "address": "0x09b4e49aeeba35d880f416404042f4ae9b3f1423",
+    "evmos_balance": "1462537210657945364768"
+  },
+  {
+    "address": "0xd70d5704a4e76e13efe80627389504fc839d4f53",
+    "evmos_balance": "921743563595290585140"
+  },
+  {
+    "address": "0x3d0e7d7d5281416fe8236af6957ee26d5505eff3",
+    "evmos_balance": "2844521270844756471018"
+  },
+  {
+    "address": "0x4b8c3c185dc5c326fe6aeb36c3f18bd323afd643",
+    "evmos_balance": "2871274561474649865363"
+  },
+  {
+    "address": "0x964cf3e0447241038907a85b46fbd0318bf80008",
+    "evmos_balance": "619705780669430152589"
+  },
+  {
+    "address": "0x7b84d23a6798060bc857da4db38839a005181df5",
+    "evmos_balance": "594884533355493741696"
+  },
+  {
+    "address": "0x8923a4d41fb78214df1729624d0147eb02f226ba",
+    "evmos_balance": "2970220182085599126732"
+  },
+  {
+    "address": "0x14af1e216f51704f5bbec7a30b37a9fb65f794c3",
+    "evmos_balance": "2901877816180684667315"
+  },
+  {
+    "address": "0x326d3cbac4f5a104a69aeeca7f1314c6e9fd6d84",
+    "evmos_balance": "2526556226250045280414"
+  },
+  {
+    "address": "0x40a450d08a0a0493984c02e1fa008495b34b5c29",
+    "evmos_balance": "735391433572388262979"
+  },
+  {
+    "address": "0x7b29106c9e25df6074e555ed41b368e03f3b85ad",
+    "evmos_balance": "255648294195487541236"
+  },
+  {
+    "address": "0x19e22a75655827c47a9b7b85b381fde6f97aa14f",
+    "evmos_balance": "1772867910347134210127"
+  },
+  {
+    "address": "0x05538f4fe6d78110f316d11bc19239a926c9c419",
+    "evmos_balance": "428765721425604968962"
+  },
+  {
+    "address": "0x0cb63719d7fbb807f82423ca42cc3506a5aedc10",
+    "evmos_balance": "1852724889969527149094"
+  },
+  {
+    "address": "0x54edac0af3db6003a7f9f0617f4f53f25be0b99d",
+    "evmos_balance": "2083907631359380743781"
+  },
+  {
+    "address": "0xe7a6f2a51de5ae0c6ea17b5ec3c44cecbdf2dadf",
+    "evmos_balance": "2809312471877352609975"
+  },
+  {
+    "address": "0x636215c653e41a98dfdc7264de433f33f0a77267",
+    "evmos_balance": "2670980783230597729924"
+  },
+  {
+    "address": "0xe385ef59b4df88dcd73b25bf127372229f30af9b",
+    "evmos_balance": "154693560648946152142"
+  },
+  {
+    "address": "0x44a9aa435395ba21c2fbdbaca3b5d8bec49db92e",
+    "evmos_balance": "2200986975508574451125"
+  },
+  {
+    "address": "0xf7d44c23a8fbdc2acfd858b9988c6d2f4dd61076",
+    "evmos_balance": "2958658317172631620342"
+  },
+  {
+    "address": "0xe292f1d6a24ec3b291c31010017c233a7962e3b2",
+    "evmos_balance": "2462231686724201200468"
+  },
+  {
+    "address": "0xa917ade2f7530968779e7772e54c82738b74af1a",
+    "evmos_balance": "629587325610405703557"
+  },
+  {
+    "address": "0x6547b9c39f806c972bcb6eb96c5620dbae2ab507",
+    "evmos_balance": "1498480564828287193501"
+  },
+  {
+    "address": "0x156a504266e835f69a41d85d73b3caef53444beb",
+    "evmos_balance": "913365411986290159116"
+  },
+  {
+    "address": "0x61d68c5c4cde1eb13d8058c7224332d261084a19",
+    "evmos_balance": "2782830784098165101614"
+  },
+  {
+    "address": "0xa105ca9e4696c6dbf9c4236fd4411a49318c90fe",
+    "evmos_balance": "2214804442643265774916"
+  },
+  {
+    "address": "0xee3688ea871ebf9a55af72ac0dd2aa0f7f6ad802",
+    "evmos_balance": "2667567735206806938075"
+  },
+  {
+    "address": "0x14df64a079e1fe9e29f429bd2786d8443c8f2929",
+    "evmos_balance": "684916609592658196984"
+  },
+  {
+    "address": "0xa8d39d12695f2805910c23a94205bd3062978d53",
+    "evmos_balance": "448744388710864252293"
+  },
+  {
+    "address": "0x24bb2a3ccf220e3d4b67b5a0b228834c76d4eeec",
+    "evmos_balance": "789042299647528723290"
+  },
+  {
+    "address": "0xa89e0b7673769472f59e5a0e605745fa5a92432c",
+    "evmos_balance": "2947754384781107571518"
+  },
+  {
+    "address": "0x83da5204bea66b14f98d336006f830391a88c5f6",
+    "evmos_balance": "704286970166598907234"
+  },
+  {
+    "address": "0x80c6e17022a42f0d03a63e3facadb32585e2915e",
+    "evmos_balance": "2383904881467931281163"
+  },
+  {
+    "address": "0x114335b1aba5c6ca56845859ddf26bcc0494c417",
+    "evmos_balance": "1132968931872748194634"
+  },
+  {
+    "address": "0x509ec750cab3c6ae4989d93e1a14cbcbbf8972c9",
+    "evmos_balance": "2116205805206525709914"
+  },
+  {
+    "address": "0x23c0e7f5a051bef6dc31611c2911b2bb6cc36f6f",
+    "evmos_balance": "551149799026715581108"
+  },
+  {
+    "address": "0xc08b19b0bd434ea7cec94ca768a921960041da65",
+    "evmos_balance": "125453747725959490063"
+  },
+  {
+    "address": "0x3ea7c4a6950288814117174ce055e452aebebf52",
+    "evmos_balance": "1599206631352222617654"
+  },
+  {
+    "address": "0xfaad2e4b83a6bbed6b2f8398c4449ff731b7a2ba",
+    "evmos_balance": "270690663010532858341"
+  },
+  {
+    "address": "0x16c5d7862f5e42b578c5b86bdf1f3887fdc0f412",
+    "evmos_balance": "404508302468697174201"
+  },
+  {
+    "address": "0x886f957bec7dee3a194a0e46b971310addf89bf1",
+    "evmos_balance": "961328552274166301115"
+  },
+  {
+    "address": "0x978eeaef3b00aa4cbb20c1638cca9f515725bb16",
+    "evmos_balance": "2386481530919646391562"
+  },
+  {
+    "address": "0x6e30268c6c2503e688a49185559c5df5d67f42bf",
+    "evmos_balance": "1023454947785973925616"
+  },
+  {
+    "address": "0xf5800088f55a5a5d005163cabf8e40eadcf4e78c",
+    "evmos_balance": "962482875467107739399"
+  },
+  {
+    "address": "0xf2de3c178fbdcbf294e5a43f10a61f9fc253df00",
+    "evmos_balance": "2426966017727434348748"
+  },
+  {
+    "address": "0x15e844bdcaf1a38b55ac76e40921c81282ef4c20",
+    "evmos_balance": "2553542131022995372786"
+  },
+  {
+    "address": "0xb136d7643a612447eb603c051c193fdead1e0e37",
+    "evmos_balance": "812248574962235693665"
+  },
+  {
+    "address": "0x654b3836e915616f830357de47c973d650326aee",
+    "evmos_balance": "614301865367821223007"
+  },
+  {
+    "address": "0x15926b9b2ec810fda5203619571b03f1338e040b",
+    "evmos_balance": "2903859141799928818086"
+  },
+  {
+    "address": "0xd0c12b5858d47d978f3007f9423090383d6b442d",
+    "evmos_balance": "2440156754297908288623"
+  },
+  {
+    "address": "0x040c795be9ebf3b561abcd7fbc1d0b1445020b99",
+    "evmos_balance": "2280224199762728972626"
+  },
+  {
+    "address": "0x77e509a88a3b9d89611f533c0fa53377455952bf",
+    "evmos_balance": "2505360307466252944301"
+  },
+  {
+    "address": "0x3a645abbc55a6a77e7c424d7e64c289b00b6fa30",
+    "evmos_balance": "226997986629049272870"
+  },
+  {
+    "address": "0x194cd1ceeb5e1d872f19c65f4ea010d3b0ba894b",
+    "evmos_balance": "1730305313061398662665"
+  },
+  {
+    "address": "0x35b65478277d806e4c7760d14fd9501ef40b4968",
+    "evmos_balance": "429548912372980776602"
+  },
+  {
+    "address": "0x000d57ac4711db1dc7453d51bffe4faf4ca0eda0",
+    "evmos_balance": "343089417457814778672"
+  },
+  {
+    "address": "0xf811de455b2fda454e148cb9a56e9faba07430d4",
+    "evmos_balance": "2596864270182222521122"
+  },
+  {
+    "address": "0x9379b6de5e537346d2e5a9935adc774dfb3ffe99",
+    "evmos_balance": "1419668085836633364962"
+  },
+  {
+    "address": "0xc4f3e4c34b98c326de2732c3a2cff1cf3daa5b0c",
+    "evmos_balance": "1155701035181955512511"
+  },
+  {
+    "address": "0xf523fcbda67bc7c64fe667cb4466d04176640ac9",
+    "evmos_balance": "2410575689081404304235"
+  },
+  {
+    "address": "0x4acb4c9d9fd2b7708e76b2b6a1aec4458d945c6d",
+    "evmos_balance": "438034928929493897094"
+  },
+  {
+    "address": "0x037bc5471ff04bff3170a1364d2201259c02b127",
+    "evmos_balance": "1138010885530959962664"
+  },
+  {
+    "address": "0x21fbcde968d472ca8ffedef3ef4bafd61e1eb19c",
+    "evmos_balance": "2345354973523103666923"
+  },
+  {
+    "address": "0x161b6928c9b3265b5fec9101625b176d50fbd496",
+    "evmos_balance": "791249050835807573456"
+  },
+  {
+    "address": "0x29ea898516695b94d928f9cc6ffac5067f0267d5",
+    "evmos_balance": "1373235576494921288118"
+  },
+  {
+    "address": "0x1cb3c6b77fde279cf7403a5c0ae2d5fc9d356a55",
+    "evmos_balance": "529956749530982670399"
+  },
+  {
+    "address": "0x029cc3366f99e07c800568386433ce3d6082f264",
+    "evmos_balance": "1595071059516765051200"
+  },
+  {
+    "address": "0xb7b5c63b22153d8e4ac2c497a650a7b303403e13",
+    "evmos_balance": "1519852398156995434755"
+  },
+  {
+    "address": "0x002631f0c82cc92a899c92ae1d4c85fb324900d7",
+    "evmos_balance": "1647614198507600563628"
+  },
+  {
+    "address": "0x8bbf65c98c660b7c393b5130abb64b60e2ab42f5",
+    "evmos_balance": "1341925451151689319667"
+  },
+  {
+    "address": "0xdb0132c875ea7a00c4a6283da592ae6500205396",
+    "evmos_balance": "581327568435304427940"
+  },
+  {
+    "address": "0x82bc56fb497e2d8dfbc861f82fff030e687de694",
+    "evmos_balance": "2093369862244401805312"
+  },
+  {
+    "address": "0xf0c09d91aa30e491e1a3a20c6fd35838257e2648",
+    "evmos_balance": "2334887026498143379973"
+  },
+  {
+    "address": "0xd953b00dbd37419efbef4d05455b26d0d89a4cff",
+    "evmos_balance": "339271308607403512288"
+  },
+  {
+    "address": "0x247663f819df087070c21e70b4918a1a3b978af1",
+    "evmos_balance": "2264346920605040847983"
+  },
+  {
+    "address": "0xfc4b4898a1678ded3046b64ea9c7dca81aee0b51",
+    "evmos_balance": "2173586668468423498114"
+  },
+  {
+    "address": "0x6451e5d5d6b1e1bda1eef49ebd6301a94175836e",
+    "evmos_balance": "1423178725728882950465"
+  },
+  {
+    "address": "0x22a5aa213b79349b18d7236994bafe2e3af4da2c",
+    "evmos_balance": "1044916028748553400607"
+  },
+  {
+    "address": "0xcd6c2e78b3f9f47049f57e136c1cf6656489bc55",
+    "evmos_balance": "790887357533454747654"
+  },
+  {
+    "address": "0x79176131ee0bfb211789679cc9c7c9f4fc6efef0",
+    "evmos_balance": "11593122256064398750"
+  },
+  {
+    "address": "0xedfc6299b8d9d261a8364b6f7bf88cdeb78cc912",
+    "evmos_balance": "895495852197893368254"
+  },
+  {
+    "address": "0x718eb8bf783cea3a179379c2808c947f4746b5f2",
+    "evmos_balance": "1833774771865499058208"
+  },
+  {
+    "address": "0x143e1c74e7b4afc4077adc738790e6f4fe142fba",
+    "evmos_balance": "322512845443013419408"
+  },
+  {
+    "address": "0x39815946238a308581153b8a416e522b6ad8de09",
+    "evmos_balance": "2541629114077062685632"
+  },
+  {
+    "address": "0x31ba58d6153e79f7ed0205c7bdc553ab8b10ace0",
+    "evmos_balance": "1456584471145923275124"
+  },
+  {
+    "address": "0x8127d7d3e87bb410b9d8cafb7a2a5a4d2664f4dc",
+    "evmos_balance": "212941171374041488242"
+  },
+  {
+    "address": "0x1abffd9cd86e05f649387729ff89b67e799fbb2a",
+    "evmos_balance": "1617287637991939047657"
+  },
+  {
+    "address": "0x1b278d0f433d73b52a3fe49755e1cb4a8e306d9a",
+    "evmos_balance": "2415514259139720988344"
+  },
+  {
+    "address": "0x377d5bb9f733afeca65d44a1f867f91f8603818e",
+    "evmos_balance": "1426232860305129563711"
+  },
+  {
+    "address": "0xd4f7e299a5c8e204aca470ff67b374e7a84d5467",
+    "evmos_balance": "2367625320685370655894"
+  },
+  {
+    "address": "0x00932dc0c424c7628aeea5f89a36f425ed59c7b0",
+    "evmos_balance": "1480203713727127429134"
+  },
+  {
+    "address": "0x52cf1d5027cfb7c6ab7584bf7bad83476d3a0404",
+    "evmos_balance": "269274906174880915832"
+  },
+  {
+    "address": "0x5e0e3b88cee2a5058f0606a21166cb93f586ae49",
+    "evmos_balance": "1348502307857392300058"
+  },
+  {
+    "address": "0xed2170462e997b9590f77bf2cd3cd283b877eade",
+    "evmos_balance": "117942480426987825579"
+  },
+  {
+    "address": "0x110bc8ba257c2642784a62e60dd944bcecb6c9ef",
+    "evmos_balance": "2814349302595998917070"
+  },
+  {
+    "address": "0x2f551e6e6edac20c198955d59478dfadf55877cf",
+    "evmos_balance": "2675566201933107131045"
+  },
+  {
+    "address": "0x74d8ea4e76f5fe2477829b21915cc3a4908eb657",
+    "evmos_balance": "1180470342411658442089"
+  },
+  {
+    "address": "0xfc7e3b0a9be8a4506e561893650c514d3531ba53",
+    "evmos_balance": "1244180261243825137453"
+  },
+  {
+    "address": "0xbbbaeea43c53df38b8a1513b0ffa8bd595b91737",
+    "evmos_balance": "1352601437151630859657"
+  },
+  {
+    "address": "0x098c828da5a8b8bb9b28ef3d95bd9ec26d35f8d0",
+    "evmos_balance": "256905287823606881479"
+  },
+  {
+    "address": "0x62ff60276f3d44397c0c7eeabef1b615046c5a5b",
+    "evmos_balance": "2670074621028608138210"
+  },
+  {
+    "address": "0x9f9c03114e1e6ab5446b5a95bfe1e138fa6fe04c",
+    "evmos_balance": "363216464417876730912"
+  },
+  {
+    "address": "0xb2e8b2e8529bbf49606687e32780e31c14a49ec5",
+    "evmos_balance": "983434868326994627407"
+  },
+  {
+    "address": "0x1cc65474f1bc0cbca6f6ed92af999e74db6844c7",
+    "evmos_balance": "1983555420572255662881"
+  },
+  {
+    "address": "0x2d80b1d4009c47fb257216725ff9478c65bdd259",
+    "evmos_balance": "2550102372618719879594"
+  },
+  {
+    "address": "0xdc6cd4ee10bbc10aa096770ac20ee8962539fb66",
+    "evmos_balance": "1202457568154235114312"
+  },
+  {
+    "address": "0xace7c2c094f2e82af0e958106e99f98507937165",
+    "evmos_balance": "1692396328600580241829"
+  },
+  {
+    "address": "0xed5d692caf043489058d8ae9b9c31ca5e468e60f",
+    "evmos_balance": "1367739669978809764839"
+  },
+  {
+    "address": "0x150ab5c63ddbdde3796205edea153802d8590a4d",
+    "evmos_balance": "2194916097388639938517"
+  },
+  {
+    "address": "0xb74138e627c3138e4559dcc47be464ad44e3f5d7",
+    "evmos_balance": "2586746464848159255948"
+  },
+  {
+    "address": "0xafc86dd630a8814f9650cd2312217eb4617fb9b7",
+    "evmos_balance": "1796407977058852620228"
+  },
+  {
+    "address": "0x077681ec43dcc19c8766f66160cd9208dab0c4d3",
+    "evmos_balance": "2854670465852432268364"
+  },
+  {
+    "address": "0xa4d8abef48b0ec44abe263667350007e71cac268",
+    "evmos_balance": "1511796212785424032892"
+  },
+  {
+    "address": "0xc342c61eb2af812cd78bfb142ede1dbdd94727b2",
+    "evmos_balance": "2066702246311946448910"
+  },
+  {
+    "address": "0xac57f6db9eaeeba18724cd74621466b1a36bf89f",
+    "evmos_balance": "1362150413853336252880"
+  },
+  {
+    "address": "0x12b2946224aa50cc88cd026b9bdc19631a96564e",
+    "evmos_balance": "2882540327101445761232"
+  },
+  {
+    "address": "0xbb8fb8fe5198f25d117c0e7b1b9c8260cb19c3c0",
+    "evmos_balance": "1045900643337378943289"
+  },
+  {
+    "address": "0x0e36d0e362f7ab27bfe69de39eaee2cb4c0a68ab",
+    "evmos_balance": "143105918571857967876"
+  },
+  {
+    "address": "0x8c5dd93efe4dd6ccde3ff972c153010b69ef804b",
+    "evmos_balance": "1960833408551061575727"
+  },
+  {
+    "address": "0x747765910d8c36fe876867d5b5526ea86d1dcb2d",
+    "evmos_balance": "437732694879636268418"
+  },
+  {
+    "address": "0x093308cbbd62b4ccb8c79814aa262c97b1c8f63b",
+    "evmos_balance": "1334738029673111202415"
+  },
+  {
+    "address": "0x96433170c3a1f3a499dd5c1282f965729020e70a",
+    "evmos_balance": "1797685299768213420707"
+  },
+  {
+    "address": "0xe23b596e2bec993c84234bdb5dfb131899e8d688",
+    "evmos_balance": "1839510462714804015153"
+  },
+  {
+    "address": "0x1c6a83a4cab1540cd8a442f26f000ab40c533779",
+    "evmos_balance": "1117687214543167105090"
+  },
+  {
+    "address": "0x4ffd0a59a26cb2aa76d403215e4cc2845c053994",
+    "evmos_balance": "2264245059344541708807"
+  },
+  {
+    "address": "0x0fd07ec2e60e521ae03c89359e967403b2ddc39e",
+    "evmos_balance": "2677619681070780652255"
+  },
+  {
+    "address": "0xa55ec5c50bc27de5f527be1bfa97d07686e3e8d7",
+    "evmos_balance": "2133572508662749301085"
+  },
+  {
+    "address": "0xcb284f3bf78737c4fe5a9db1e3633130c10fa7b1",
+    "evmos_balance": "2323598390045833073884"
+  },
+  {
+    "address": "0xf37f53121e1396c608342cb4b973a6d870bf5623",
+    "evmos_balance": "1762126855205401483021"
+  },
+  {
+    "address": "0xf135fc260378e276c89287005df78c4399b37b2e",
+    "evmos_balance": "823926280283084238454"
+  },
+  {
+    "address": "0x00236a96612fcfed2b9787d67b4ebedffdcc196a",
+    "evmos_balance": "2668255748801606955462"
+  },
+  {
+    "address": "0x080350691924ea4663b5707d48895623698fa0b4",
+    "evmos_balance": "554123397382321941253"
+  },
+  {
+    "address": "0x052e505865da56d3d30cf18b2cf805d12dd22a70",
+    "evmos_balance": "321790441136371775546"
+  },
+  {
+    "address": "0x5219f29e1f90f55ecb1057ddde121819fc619092",
+    "evmos_balance": "1375876219900489238704"
+  },
+  {
+    "address": "0x15691e4db66dd8feeba5f32d0dce39e341359578",
+    "evmos_balance": "1445169810208050119837"
+  },
+  {
+    "address": "0x29ff27862757953c3b90edb5e2fb7d59d31d0746",
+    "evmos_balance": "673559571075893798517"
+  },
+  {
+    "address": "0x1d29c0819a6bc066c859f6cdb05a0c7a4e00b9dd",
+    "evmos_balance": "1065645264188842647545"
+  },
+  {
+    "address": "0xd4a46e61b9afb4d6241e85d97d517173ca0d2562",
+    "evmos_balance": "1857463225135405330599"
+  },
+  {
+    "address": "0xc78e7731da04aa6e6ce730cca7aae517523f49df",
+    "evmos_balance": "2613112182016283133009"
+  },
+  {
+    "address": "0x66046266e73e9aa7b91eff66c61c931fc69f9ce8",
+    "evmos_balance": "1729856939774257913780"
+  },
+  {
+    "address": "0x841f7a1b93a3d8ab0bd053d1c37aea17ecad0e11",
+    "evmos_balance": "2842237871589674613795"
+  },
+  {
+    "address": "0x4f4701fc1d8e3f99536fc98bb1bd07672d508cec",
+    "evmos_balance": "2141637133133195989778"
+  },
+  {
+    "address": "0x08a8b8927ee18b93361f2aaf1f45a913e2daf472",
+    "evmos_balance": "1121153691876795355371"
+  },
+  {
+    "address": "0x68ad88b310fd3c13320779ca4c8e31e9fc325ab2",
+    "evmos_balance": "4727278947809721850"
+  },
+  {
+    "address": "0x859952d0e76f69064021fcef94cdf4dbb6c0cc2d",
+    "evmos_balance": "228179763080741664239"
+  },
+  {
+    "address": "0x8f540cd7248304373cba1a63d7eccfde45a05ba5",
+    "evmos_balance": "1648791868409520024045"
+  },
+  {
+    "address": "0x3c8db30daf41dd597b9d17e9315538ba79e92540",
+    "evmos_balance": "1443735179769269546107"
+  },
+  {
+    "address": "0x9c09e5d2919c67fc3b7b8a5d5eeb9ec5dbbe5989",
+    "evmos_balance": "6602233524369108301"
+  },
+  {
+    "address": "0x6fe4aced57ae0b50d14229f3d40617c8b7d2f2e1",
+    "evmos_balance": "1467419523839946950423"
+  },
+  {
+    "address": "0x9d23c3864cf3ed02b76a0beea9939ca2b9eb189a",
+    "evmos_balance": "1030847677422576610746"
+  },
+  {
+    "address": "0xd1fc4d61af7c06babd24d36558808651d7c3104b",
+    "evmos_balance": "2038920018142536826921"
+  },
+  {
+    "address": "0x8a03d95fa36d9a2a1235802041ff040805ea8a5e",
+    "evmos_balance": "1761487077061611929552"
+  },
+  {
+    "address": "0xe85e076f1409e23765d5c98591749976ebb799fd",
+    "evmos_balance": "2913020577098151406711"
+  },
+  {
+    "address": "0xa7ebfb78d26fa236d473607c58b7fda333b020b3",
+    "evmos_balance": "882220977944126554898"
+  },
+  {
+    "address": "0x9bb32089beaf05ede312784f5100a5aea1baecc4",
+    "evmos_balance": "2721331648677572639944"
+  },
+  {
+    "address": "0xc92fc09658fb97ccf59ffd34d404766c3713c828",
+    "evmos_balance": "137650439290704533530"
+  },
+  {
+    "address": "0x4fc20ef5d3031a467a57e0bd9d8a57eafbc862c6",
+    "evmos_balance": "2471357102905832990447"
+  },
+  {
+    "address": "0x8df57e3d9ddde355dce1adb19ebce93419ffa0fb",
+    "evmos_balance": "1969621094358886610959"
+  },
+  {
+    "address": "0x8581ac6c23796a83a897414a0c8de11d967bb493",
+    "evmos_balance": "1403897259569184543928"
+  },
+  {
+    "address": "0xe3241c0d38f9517655b140400bb7d2f08d9bf29d",
+    "evmos_balance": "2840447397558321553895"
+  },
+  {
+    "address": "0x408d2eb46bd8416cd5d7a422d8779783444e0ab1",
+    "evmos_balance": "2297835824598063156378"
+  },
+  {
+    "address": "0xf3758c3a156d29d578cbcf6d1fd1f36bd9bd3a29",
+    "evmos_balance": "1779509442996009500688"
+  },
+  {
+    "address": "0xdcc7f4d0ee930f6cb8c29c0fe9e9ecb00fddd2f1",
+    "evmos_balance": "274842304721070135435"
+  },
+  {
+    "address": "0x25b3708f4187985544e9c147dde746f90ffd9f14",
+    "evmos_balance": "2604348827002187075523"
+  },
+  {
+    "address": "0xb146844ac6cd89378bbbd4d878c027dd0f4bb165",
+    "evmos_balance": "1889472180971468153530"
+  },
+  {
+    "address": "0x8b059afc37cbabaf010c999c93b42a5eb998d05d",
+    "evmos_balance": "2757957333657442141952"
+  },
+  {
+    "address": "0x6caf2cfca8600e86fdf5b4ce3bf510103479be15",
+    "evmos_balance": "919965003187712347881"
+  },
+  {
+    "address": "0x56e5c18d8249d2a4ed74b1c7718d9327dde1cc68",
+    "evmos_balance": "1352500226206239807525"
+  },
+  {
+    "address": "0x6069be68577b66d8e1e7ab23f7155b016917ae91",
+    "evmos_balance": "2683667110940135180060"
+  },
+  {
+    "address": "0xa8a2775d13fd055d5747ed11fc9b9a9cb5f8f631",
+    "evmos_balance": "994441635359031069989"
+  },
+  {
+    "address": "0x0b9e89bf1f1b9679d6c43cbf6c032ca120eedb18",
+    "evmos_balance": "51166758352647771542"
+  },
+  {
+    "address": "0xe449a2537a97db70b51798a8c0e632b43285fb7b",
+    "evmos_balance": "2428331933513076600192"
+  },
+  {
+    "address": "0x6cc169547b20e9bee9d2ab1825e750117f770d39",
+    "evmos_balance": "2680291211499896276861"
+  },
+  {
+    "address": "0xdaab06a2611095939d61300030701908af24590b",
+    "evmos_balance": "2314902231971106897955"
+  },
+  {
+    "address": "0x837d91fd46c58ec5f17851f1cdf7c2244ad696ad",
+    "evmos_balance": "146896893400417026815"
+  },
+  {
+    "address": "0x27aa68dee684e75e5e5fd79837f74ae64eef2957",
+    "evmos_balance": "486984006340376992670"
+  },
+  {
+    "address": "0x1ea0dc1323eb9912f599bd01c78c195046c5f69e",
+    "evmos_balance": "1649335565843024797207"
+  },
+  {
+    "address": "0xf50c064504392adee761c0943d6cdf64e93a29b6",
+    "evmos_balance": "245675764732591265518"
+  },
+  {
+    "address": "0xc7e2efe7e58f5e3a6a8b28322bdb118a91473985",
+    "evmos_balance": "2426171915341164173846"
+  },
+  {
+    "address": "0xb0ea5ec77ee743974e75a5a2110e3d93c0be1f0e",
+    "evmos_balance": "2878962803010225669788"
+  },
+  {
+    "address": "0x1850b44453a43573690a300cacd0a74a8a4285ac",
+    "evmos_balance": "27548819943782512998"
+  },
+  {
+    "address": "0x2ff13f68cccbc4616bb69e04941bf4973973dc78",
+    "evmos_balance": "1363123173280312283903"
+  },
+  {
+    "address": "0x9c2d57e116ea5a4fa8e50eacce18dbb3750078d9",
+    "evmos_balance": "2197023965787301468598"
+  },
+  {
+    "address": "0x394fcb2121b182df16c6b296288cae6b3f57eb0e",
+    "evmos_balance": "884951981700860530571"
+  },
+  {
+    "address": "0x1e4732c7d934173116a1981f9b94b31d5da3c6f9",
+    "evmos_balance": "1601494649930941039809"
+  },
+  {
+    "address": "0xdbb514d2ec89524368b0a24d18b0d6649c4efe90",
+    "evmos_balance": "141683634070898148056"
+  },
+  {
+    "address": "0x9e3305de506b95bf79a8642744a1aaecde801e65",
+    "evmos_balance": "2882936612264329137351"
+  },
+  {
+    "address": "0xb88991984da5a2d2b31866ec4321fff1af732af8",
+    "evmos_balance": "2233726640326305016526"
+  },
+  {
+    "address": "0x13c385a2aa976b637d2a701dec0e2479cdae3bb7",
+    "evmos_balance": "1047907697775615729093"
+  },
+  {
+    "address": "0x859bb79038c20f09a7ad5726e036028f301d5de6",
+    "evmos_balance": "679724902720093667790"
+  },
+  {
+    "address": "0x1e008bcd9333f3e85c751f7fb6ce82e7aa626f69",
+    "evmos_balance": "1581803726386243845786"
+  },
+  {
+    "address": "0x3a137fb6b0808628b6031071df0e9455be5a2163",
+    "evmos_balance": "474409773913178191170"
+  },
+  {
+    "address": "0xa5c0f1328ddb891be27789437d6c50cc0bb08129",
+    "evmos_balance": "2323969609161124002409"
+  },
+  {
+    "address": "0x90d600c1f743676c5eb677f064a44b15591770a5",
+    "evmos_balance": "1526008262596877476605"
+  },
+  {
+    "address": "0xeda07814bbab6cdd8a086d174c8336c8e4ac86c3",
+    "evmos_balance": "2839509722145800304621"
+  },
+  {
+    "address": "0x1ed12675871c43e25cca4e2c1ec612abf7cc8687",
+    "evmos_balance": "1789347630004182674289"
+  },
+  {
+    "address": "0xd229e3c872418ecf232808906f9d76d2bab0f86f",
+    "evmos_balance": "2421667782311384511365"
+  },
+  {
+    "address": "0x12abe44ca3698a5d94d83645c8424052aec19471",
+    "evmos_balance": "838821979646687942351"
+  },
+  {
+    "address": "0x4e766c7617b603433b719627d7d8b3e68df8a58a",
+    "evmos_balance": "2030002085462877421911"
+  },
+  {
+    "address": "0x00aae21e3b89cde691d75b050a39b2b06949d6be",
+    "evmos_balance": "1078147412272032962127"
+  },
+  {
+    "address": "0xe813dd3321cffa4f27e8f31ecbba3595c70faef8",
+    "evmos_balance": "463962097956559773994"
+  },
+  {
+    "address": "0xd207b8157f9b9ab5c540ce2aace75cadfb58ebce",
+    "evmos_balance": "2615668168444440034715"
+  },
+  {
+    "address": "0x22ccfb4382881c92c015b10eef433d2d7b5da2aa",
+    "evmos_balance": "224365606600332926227"
+  },
+  {
+    "address": "0x918d1b960bdb5e3e77e69b99dcf4f1c6aa90a41c",
+    "evmos_balance": "2882357107995263484077"
+  },
+  {
+    "address": "0xf041617e8db156526c59d9a96733cee62aa9457c",
+    "evmos_balance": "2956676790173794564070"
+  },
+  {
+    "address": "0x6bdc14e84fdc66b5d258e9f77e793cff833bffb3",
+    "evmos_balance": "213460806392016999557"
+  },
+  {
+    "address": "0xfda5dfbc7d508bd831b7b2d9853349bc4280bf70",
+    "evmos_balance": "1381369523368698513235"
+  },
+  {
+    "address": "0xb622099c6cf6ffc94e204d07d12ef30279449657",
+    "evmos_balance": "1874060824788424289025"
+  },
+  {
+    "address": "0x099dd527cdefb41bb6b3509ee146ab186c2edbe8",
+    "evmos_balance": "368831304194475187132"
+  },
+  {
+    "address": "0x7bd5a328b50bf30b2d92a668941d8ca8b1168829",
+    "evmos_balance": "2257319710893610015219"
+  },
+  {
+    "address": "0xe4770cc516422b225fcb61c16255de54ebce615b",
+    "evmos_balance": "1935849459361516809562"
+  },
+  {
+    "address": "0xec82684bd49d226457eb60cf2492369abaa2a48b",
+    "evmos_balance": "831626435905144227518"
+  },
+  {
+    "address": "0x80047535dbff91ea941e85c230f52079abb5ca55",
+    "evmos_balance": "1030091180093983685530"
+  },
+  {
+    "address": "0x11ae80eb791bd722b73f83704e2c06752641bbee",
+    "evmos_balance": "1233498336496713136463"
+  },
+  {
+    "address": "0x64d83b16a35c885ad959fa8a65ab4c5cfb9b5847",
+    "evmos_balance": "1654689682646914935476"
+  },
+  {
+    "address": "0xf9fbc068f49d253b8af727e2ed83c2e53ed6966e",
+    "evmos_balance": "2796785241051579180387"
+  },
+  {
+    "address": "0x5ce5c394a0f8a4be282c8659e405524a089a9843",
+    "evmos_balance": "2974898891645713612676"
+  },
+  {
+    "address": "0x1d7289cd06071bcf4e06eeb84460889c7528bd9e",
+    "evmos_balance": "2789846008772932220932"
+  },
+  {
+    "address": "0xfdc430512b925cf19b4f4c3214570ea0ee0c875e",
+    "evmos_balance": "2648728817443489170272"
+  },
+  {
+    "address": "0x19c5327ef25e0044d265bad6bcf821139dc9299c",
+    "evmos_balance": "353067113670926178811"
+  },
+  {
+    "address": "0x7047b2a4fdf0847c213223e43bbf03d2e1348f21",
+    "evmos_balance": "1146590179681167177526"
+  },
+  {
+    "address": "0x0d43935b9e09f6391b726b1e2093fbb89dcad375",
+    "evmos_balance": "415066467947328872086"
+  },
+  {
+    "address": "0xdd025e4e46453dcbcc0ee57eae537b77b5d5a6fc",
+    "evmos_balance": "1064670751982403137258"
+  },
+  {
+    "address": "0x166af473ee7746cb6d54b2ceab59769d6ced859f",
+    "evmos_balance": "2639445295452327201191"
+  },
+  {
+    "address": "0x7b33918967eb8f48983cedcacbe4601cda2681c3",
+    "evmos_balance": "1434395992182950558308"
+  },
+  {
+    "address": "0xdd1bda4bca81d2ebf575841fa49bafbd8d612bbf",
+    "evmos_balance": "2461790177586143296046"
+  },
+  {
+    "address": "0x6e284b37a89450f6dd734fdb5c7eb1c18696f5fd",
+    "evmos_balance": "2610250343662875665644"
+  },
+  {
+    "address": "0x6c3db90346dcabf8d8433a2d85346bb3e030481e",
+    "evmos_balance": "1527364450759289950743"
+  },
+  {
+    "address": "0x90a9800d7cccbc4c65e396a6de4d158d0c49ac11",
+    "evmos_balance": "2908967841590982253761"
+  },
+  {
+    "address": "0xe83b8cb4955ea849e69a03325543e6e1d556fa6f",
+    "evmos_balance": "2707865969142941751181"
+  },
+  {
+    "address": "0xa437db63a837f2f60fa553ee2cc5b50771afd7a4",
+    "evmos_balance": "1327893063265273825095"
+  },
+  {
+    "address": "0x7ed6adfdbd1ae45d52b8924870703d36bc38d829",
+    "evmos_balance": "2655461997566110663090"
+  },
+  {
+    "address": "0x73831e7c600f48cebbbff957b466be8e5c087f34",
+    "evmos_balance": "583612585888236258967"
+  },
+  {
+    "address": "0x932c2d21fa11a545554301e5e6fb48c3accdff4d",
+    "evmos_balance": "987008152815907238963"
+  },
+  {
+    "address": "0x7fb44749f3f01baddfa619937e9e96113a2d31f7",
+    "evmos_balance": "529542150921082306562"
+  },
+  {
+    "address": "0xaace084fa283632ad4471b9e2c84d2f4d376d0ae",
+    "evmos_balance": "1185083387849965852569"
+  },
+  {
+    "address": "0xe2ccf43052f7a01c79e0e1c44c8e0c1252b6131e",
+    "evmos_balance": "2196284190128077058958"
+  },
+  {
+    "address": "0xbaac287637c77ee488fcb936b4a561f99ca4afd8",
+    "evmos_balance": "1366529928025567989510"
+  },
+  {
+    "address": "0x4159f5df51fab9b89335990fffaf1eb66008a4b1",
+    "evmos_balance": "2865153250549096330165"
+  },
+  {
+    "address": "0x19457afb95ccbd9ae720085683078a49cc0d18f5",
+    "evmos_balance": "1019161315304240531642"
+  },
+  {
+    "address": "0x226fa898550ef48313d359d90f69914018a89f73",
+    "evmos_balance": "981067234966953975476"
+  },
+  {
+    "address": "0xd15e1f7fe0a6635ad55e2f615439223cfe9870ce",
+    "evmos_balance": "692057269827164511371"
+  },
+  {
+    "address": "0x4d3877abc39d131a39ce21dd0675ad3c1e3f3f32",
+    "evmos_balance": "1119303480177312322076"
+  },
+  {
+    "address": "0x00000068da4595a04c2d67c97ecafed716bb0fc3",
+    "evmos_balance": "1395200338094243517530"
+  },
+  {
+    "address": "0xd998171b51dede5bb420228f8ca6e349daf0fd62",
+    "evmos_balance": "1556948363341243915371"
+  },
+  {
+    "address": "0xc92787ffe3ac443ae77d32468529e5fd7ab1e112",
+    "evmos_balance": "2595179720830088090726"
+  },
+  {
+    "address": "0xc6807ba1d89e6a0ba7e3c4b07bf763d9a9dcdf75",
+    "evmos_balance": "1089536805532676523166"
+  },
+  {
+    "address": "0x609973e8429607cde3e2c7f19dd12be5e13fc6ef",
+    "evmos_balance": "960789933255733869614"
+  },
+  {
+    "address": "0x018220f8d8919106a99876edd7993c40943aa009",
+    "evmos_balance": "875097625676811566931"
+  },
+  {
+    "address": "0xf4cf1161a4164a4355eccb3d99a485ee8972c3a9",
+    "evmos_balance": "243714827425432091963"
+  },
+  {
+    "address": "0x34c6fc6ae69655bf949a220a5522fe85bb15b1e0",
+    "evmos_balance": "2783379934690327513916"
+  },
+  {
+    "address": "0x878ee9bbe1e54c3fc561e05ef73d189d0e7f0dd7",
+    "evmos_balance": "2267769837156202853200"
+  },
+  {
+    "address": "0x4688b6f3c384c3cffe95c92f599213de4a9fa9ca",
+    "evmos_balance": "1009834602441797321474"
+  },
+  {
+    "address": "0x2615b5d4f7793063e037d51d54dbaa69254c9ec1",
+    "evmos_balance": "531272642411732567202"
+  },
+  {
+    "address": "0x1dde1b4dbf44ff1b3cd0a97ba830b211178fcd2b",
+    "evmos_balance": "1044563273321547075919"
+  },
+  {
+    "address": "0x0bee899e3e912cc73ede917d46157b4964b202e3",
+    "evmos_balance": "2800771242818432674012"
+  },
+  {
+    "address": "0x66c0d9152209b51977047b9dc3b0b5bf2339b67c",
+    "evmos_balance": "1156800604531814466653"
+  },
+  {
+    "address": "0x443dad04c5abda9280639deb646f6ae7023d0aea",
+    "evmos_balance": "659146667302532472645"
+  },
+  {
+    "address": "0x8a4ed21e990f9a7ec4b3404b323bd64f2c881de0",
+    "evmos_balance": "759764788305957108917"
+  },
+  {
+    "address": "0x709090a0a58f09498fb83997110c0667caf07206",
+    "evmos_balance": "158091269192737958410"
+  },
+  {
+    "address": "0x13c4dd9f8ad8a70120c6b4387a31b9428e60d4ef",
+    "evmos_balance": "1840579737056788533765"
+  },
+  {
+    "address": "0x471d0f69e9beee118b26df912ad5784f49a0985f",
+    "evmos_balance": "1432000418043902353705"
+  },
+  {
+    "address": "0xa7ff0c2b127d5f26379fe665f2337cdb30ab4ead",
+    "evmos_balance": "458894628863388276807"
+  },
+  {
+    "address": "0x11fb70b3fea15c34be6b9741b0348f2c8c8317ff",
+    "evmos_balance": "1378666703006956488389"
+  },
+  {
+    "address": "0x20ddea2811a4f4fd2efc07ac51d03040c070bda7",
+    "evmos_balance": "2341685213728268828340"
+  },
+  {
+    "address": "0x62e0b529ca53057658f0604d9c805f2f30727b0b",
+    "evmos_balance": "1099518576684463798941"
+  },
+  {
+    "address": "0x16336431d697bff1ef562d626d674b964a8e180a",
+    "evmos_balance": "1610242789688268739074"
+  },
+  {
+    "address": "0x1fe052c26f3d0998b2088b4948135bf43337279b",
+    "evmos_balance": "2045871612887369453301"
+  },
+  {
+    "address": "0xadcd7b70d8304d2190f6c133ceda48bf87e448e2",
+    "evmos_balance": "1665876632076492171758"
+  },
+  {
+    "address": "0xc838b08d14d1259b5c5742496ea3fcac7f4e7ce8",
+    "evmos_balance": "727223583861446627550"
+  },
+  {
+    "address": "0xa1f2c1f379a98814499635a0796d2d853f8e414a",
+    "evmos_balance": "2349662556091409877045"
+  },
+  {
+    "address": "0x6e7d0a4300c2313618eef2aa147cade624f852c5",
+    "evmos_balance": "430146713296835355587"
+  },
+  {
+    "address": "0x047f6a75437a19293de5769b8b9933d2cfea1d31",
+    "evmos_balance": "2349627659101084952914"
+  }
+]

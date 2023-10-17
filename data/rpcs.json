@@ -1,0 +1,11 @@
+{
+  "Lava Public": "https://evmos.lava.build",
+  "Notional": "https://jsonrpc-evmos-ia.cosmosia.notional.ventures",
+  "BlastAPI": "https://evmos-mainnet.public.blastapi.io",
+  "Lava Proxy 2": "https://requestbaskets-1-v9470985.deta.app/r/5q66l2w",
+  "PublicNode": "https://evmos-evm.publicnode.com",
+  "NodeStake": "https://jsonrpc.evmos.nodestake.top",
+  "Lava Proxy 3": "https://proxy-3-a6072859.deta.app/",
+  "OnFinality": "https://evmos.api.onfinality.io/public",
+  "Silknodes.io": "https://evmos.json-rpc.silknodes.io"
+}
