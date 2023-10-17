@@ -523,7 +523,7 @@ async function run(args) {
     console.log(data);
 
     mergeLogFiles(dirPath, 'benchmark_results.txt');
-    mergeMetaFiles(dirPath, 'benchmark_data.txt');
+    mergeMetaFiles(dirPath, 'benchmark_data.txt', 'benchmark_results.txt');
 
 
   } else if (args.mode == 'parallel' || args.mode == 'proxy') {

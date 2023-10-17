@@ -24,7 +24,7 @@ export function mergeLogFiles(dirPath, outputFileName) {
 
   writeFileSync(path.join(dirPath, outputFileName), mergedContent);
 }
-export function mergeMetaFiles(dirPath, outputFileName) {
+export function mergeMetaFiles(dirPath, outputFileName, logFileName) {
   let files = readdirSync(dirPath);
   let mergedContent = '';
 
@@ -44,8 +44,20 @@ export function mergeMetaFiles(dirPath, outputFileName) {
     unlinkSync(filePath); // delete the file
   });
 
+  // Read the content of the log file
+  const logFilePath = path.join(dirPath, logFileName);
+  const logContent = readFileSync(logFilePath, 'utf8');
+
+  // Merge the metadata content with the log content
+  mergedContent += logContent;
+
+  // Write the merged content to the output file
   writeFileSync(path.join(dirPath, outputFileName), mergedContent);
+
+  // Delete the benchmark_results file after merge
+  unlinkSync(logFilePath);
 }
+
 export function countdown(s) {
   const d = Math.floor(s / (3600 * 24));
   s -= d * 3600 * 24;
