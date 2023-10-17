@@ -423,7 +423,7 @@ Anonymized geo-location data is supported but not yet implemented. A database / 
 
 No technical knowledge necessary, just run in your *modern* web browser. [WebContainer](https://webcontainers.io/) API now supports npm and yarn (plus more 👀) natively in your browser. Warning: do not attempt on a potato pc or low RAM.
 
-[<img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" height="28" style="inline; margin-right:4px" />](https://updatemepls.com) 
+[<img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" height="28" style="inline; margin-right:4px" />](https://stackblitz.com/~/github.com/LPX55/evmos-rpc-benchmarking) 
 
 
 ---
