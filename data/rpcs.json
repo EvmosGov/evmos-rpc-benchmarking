@@ -5,5 +5,8 @@
   "PublicNode": "https://evmos-evm.publicnode.com",
   "NodeStake": "https://jsonrpc.evmos.nodestake.top",
   "OnFinality": "https://evmos.api.onfinality.io/public",
-  "Silknodes.io": "https://evmos.json-rpc.silknodes.io"
+  "Silknodes.io": "https://evmos.json-rpc.silknodes.io",
+  "POKT": "https://evmos-rpc.gateway.pokt.network",
+  "MMS": "https://jsonrpc-evmos.mms.team:443",
+  "Blockspaces": "https://web3endpoints.com/evmos-mainnet"
 }
