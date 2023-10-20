@@ -450,9 +450,9 @@ No technical knowledge necessary, just run in your *modern* web browser. [WebCon
 
 ## Contributing
 
-- **Add your JSONRPC Endpoint** - Edit the .json file in `/data/rpcs.json` and create a pull request. Once github actions are set up it should trigger a fresh benchmark. 
-
-- **Code** - Yes please.
+- **Add your JSONRPC Endpoint** - Edit the .json file in `/data/rpcs.json` and create a pull request. Once github actions are set up it should trigger a fresh benchmark.
+- **Submit your benchmarks** - User contribution for benchmark data is highly appreciated! Simply take the files from the `log` folder and drop it in this repository; lastly, make a pull request.
+- **Code** - Yes please. We need.
 
 ---
 
