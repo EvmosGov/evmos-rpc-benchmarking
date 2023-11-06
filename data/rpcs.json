@@ -7,5 +7,6 @@
   "OnFinality": "https://evmos.api.onfinality.io/public",
   "Silknodes.io": "https://evmos.json-rpc.silknodes.io",
   "POKT": "https://evmos-rpc.gateway.pokt.network",
-  "Lava Private": "https://g.w.lavanet.xyz:443/gateway/evmos/json-rpc-http/9d5a88321a3dc3cdb7ad380d9dc7e8da"
+  "Lava Private": "https://g.w.lavanet.xyz:443/gateway/evmos/json-rpc-http/9d5a88321a3dc3cdb7ad380d9dc7e8da",
+  "EvmosDAO RPC": "https://rpc.evmosdao.org"
 }
